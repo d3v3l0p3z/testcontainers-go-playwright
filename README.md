@@ -1,6 +1,6 @@
 # testcontainers-go-playwright
 
-![GitHub License](https://img.shields.io/github/license/javierlopezdeancos/testcontainers-go-playwright)
+![GitHub License](https://img.shields.io/github/license/d3v3l0p3z/testcontainers-go-playwright)
 
 ![Testcontainers logo](https://avatars.githubusercontent.com/u/13393021?s=48&v=4)
 <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright logo" width="50"/>
